@@ -1,4 +1,4 @@
-# Affiliate System
+# Commission App
 
 This is a Java program for managing an affiliate system, where affiliates earn commissions for orders placed through their referral links on Flipkart. The program allows for handling orders, commission rules, transactions, and order events.
 
