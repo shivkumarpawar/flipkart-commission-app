@@ -1,0 +1,8 @@
+public enum OrderState {
+    CREATED,
+    DISPATCHED,
+    DELIVERED,
+    RETURN_PERIOD_EXPIRED,
+    CANCELED,
+    RETURNED
+}
